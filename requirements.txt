@@ -1,0 +1,21 @@
+asana >= 3.2.0, < 4.0.0
+boto3 >= 1.27.0
+httpx >= 0.24.1, < 1.0.0
+gcsfs == 2024.3.1
+google-analytics-data >= 0.18.5, < 1.0.0
+google-cloud-storage >= 2.16.0, < 3.0.0
+Office365-REST-Python-Client >= 2.4.0, < 3.0.0
+openpyxl >= 3.1.2, < 4.0.0
+pandas >= 2.0.0, < 3.0.0
+pandera >= 0.19.3, < 1.0.0
+pandera[polars] >= 0.19.3, < 1.0.0
+paramiko >= 3.2.0, < 4.0.0
+polars >= 1.20.0, < 2.0.0
+prefect >= 3.0.0, < 4.0.0
+psycopg[binary] >= 3.2.9, < 4.0.0
+psycopg2 >= 2.9.0, < 3.0.0
+pyarrow >= 19.0.0, < 20.0.0
+pydantic >= 2.0.0, < 3.0.0
+pymsteams >= 0.2.2, < 1.0.0
+pyodbc >= 4.0.0, < 5.0.0
+simple-salesforce >= 1.12.5, < 2.0.0
