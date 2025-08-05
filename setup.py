@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name = "catnip_v3",
-    version = "0.0.469",
+    version = "0.0.001",
     author = "wintonm-fla",
     author_email = "wintonm@floridapanthers.com",
     description = "Facilitating repeatable internal code",
